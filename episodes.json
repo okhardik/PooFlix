@@ -1,30 +1,44 @@
 [
   {
-    "title": "Episode 1",
+    "title": "S4 E1 - The Pact",
+    "desc": "Our season kicks off in Mumbai with Siddhi finally getting hitched. Amidst the cacophony of the celebrations, the girls find a quiet moment to make a pact with each other.",
+    "image": "https://images.unsplash.com/photo-1583939003579-730e3918a45a?w=600",
     "driveId": "1tdrPlbWtpxxiJ2cKvhbIdJDoSO6B18P0"
   },
   {
-    "title": "Episode 2",
+    "title": "S4 E2 - Pact Ke Side Effects",
+    "desc": "The girls are finally living their pacts. Damini channels defiance into creativity, Anjana flirts with romance, and Siddhi faces the realities of adult married life.",
+    "image": "https://images.unsplash.com/photo-1529333166437-7750a6dd5a70?w=600",
     "driveId": "1ENgWlSDymAOJssiGSvuI3d2Wpw4FyS-D"
   },
   {
-    "title": "Episode 3",
+    "title": "S4 E3 - Unapologetically Me",
+    "desc": "Umang's date ends badly, Damini's podcast stirs drama with her ex Warsi, and Siddhi's comedy success strains her marriage.",
+    "image": "https://images.unsplash.com/photo-1590602847861-f357a9332bbc?w=600",
     "driveId": "17zL9cSolVoOFPAEnlcWyeaElvawUeUxc"
   },
   {
-    "title": "Episode 4",
+    "title": "S4 E4 - Growing Pains",
+    "desc": "Siddhi's first brand reel turns viral, sparking tension. Damini juggles podcast chaos and fertility fears. When Damini discovers Umang's secret link, emotions flare.",
+    "image": "https://images.unsplash.com/photo-1516280440614-6697288d5d38?w=600",
     "driveId": "1WJW_0vpJenVi6r66X2_YlXL-YB9A7cdt"
   },
   {
-    "title": "Episode 5",
+    "title": "S4 E5 - Better Than Sex",
+    "desc": "The Bangkok arc kicks off. Anjana finds maturity, Siddhi owns her sensuality, and Damini faces unresolved emotions around Jeh.",
+    "image": "https://images.unsplash.com/photo-1502602898657-3e91760cbb34?w=600",
     "driveId": "1PedyMQXYtWDEC5CUcErxn710p6QS5Ygp"
   },
   {
-    "title": "Episode 6",
+    "title": "S4 E6 - Handle With Care",
+    "desc": "Siddhi's bold stand-up strains her marriage. Anjana faces comic chaos at salsa class. Damini lands a big interview through Jeh.",
+    "image": "https://images.unsplash.com/photo-1515187029135-18ee286d815b?w=600",
     "driveId": "1iivFSKfwQp3JQg8KjkEADI8jKVQmWweU"
   },
   {
-    "title": "Episode 7",
+    "title": "S4 E7 - Lost & Found",
+    "desc": "In Goa, the girls face love and closure. Anjana surfs, Damini reunites with Jeh, and at Pride, Umang publicly confesses her feelings for Shai.",
+    "image": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=600",
     "driveId": "1sdgyu6LQpNRzNVH1UEVGxiu-zzfBh0HA"
   }
 ]
