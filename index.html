@@ -2,26 +2,52 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
-  <title>Episodes</title>
+  <title>StreamFlix</title>
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <link rel="stylesheet" href="style.css" />
+  <!-- Google Fonts -->
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;700&display=swap" rel="stylesheet">
 </head>
 <body>
 
-<header>
-  <h1>🎬 Episode Library</h1>
-</header>
+  <!-- Navbar -->
+  <nav>
+    <div class="logo">STREAMFLIX</div>
+  </nav>
 
-<main id="episodeGrid"></main>
+  <!-- Hero Banner (Featured) -->
+  <header id="hero">
+    <div class="hero-content">
+      <h1 id="heroTitle">Loading...</h1>
+      <p id="heroDesc">Loading description...</p>
+      <button id="heroPlayBtn">▶ Play Now</button>
+    </div>
+    <div class="hero-overlay"></div>
+  </header>
 
-<!-- Player Modal -->
-<div id="playerModal" class="hidden">
-  <div class="playerContainer">
-    <span id="closeBtn">✕</span>
-    <iframe id="videoFrame" allow="autoplay" allowfullscreen></iframe>
+  <!-- Continue Watching Section -->
+  <section id="continueSection" class="hidden">
+    <h2 class="section-title">Continue Watching</h2>
+    <div class="row" id="continueRow"></div>
+  </section>
+
+  <!-- All Episodes Section -->
+  <section>
+    <h2 class="section-title">All Episodes</h2>
+    <div class="row" id="allEpisodesRow"></div>
+  </section>
+
+  <!-- Video Modal -->
+  <div id="playerModal" class="hidden">
+    <div class="player-wrapper">
+      <div class="player-header">
+        <span id="playerTitle">Playing...</span>
+        <button id="closeBtn">✕</button>
+      </div>
+      <iframe id="videoFrame" allow="autoplay; fullscreen" allowfullscreen></iframe>
+    </div>
   </div>
-</div>
 
-<script src="app.js"></script>
+  <script src="app.js"></script>
 </body>
 </html>
